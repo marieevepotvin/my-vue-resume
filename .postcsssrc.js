@@ -1,6 +1,6 @@
-module.export = {
-    plugins: {
-        'postcss-custom-media': {},
-        autoprefixer: {}
-    }
+module.exports = {
+  plugins: {
+    'postcss-custom-media': {},
+    autoprefixer: {}
+  }
 }
